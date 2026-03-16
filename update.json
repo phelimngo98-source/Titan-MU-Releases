@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "Phiên bản đầu tiên của Phelim Tool Titan MU Manager.",
+  "pub_date": "2026-03-17T06:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldRblBMYTQ4TG82Z2J0VTBQb3BNSDVpL3lCZ0NZSFYwWnFhYmM0dGdHd3laSlJCUVRIeTRPcjdrdnZ6NVBYUDJCeGZiUHNnT3hhRFMreW1GQW5kWUdJSGxpRnppRFU0aWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzAyMTQyCWZpbGU6UGhlbGltTiBUaXRhbiBNYW5hZ2VyXzEuMC4wX3g2NC1zZXR1cC5leGUKRHh2ZG1KdTBVcXVwWjF3aDVPdGVjRUYvWC9uVmRMODhyVWc1a2JhTWkrR003bTlRUmFZcFVkRWYvdmF6c0svREwvYmgwWFNqNlNzbDRaQzVZbEd0RFE9PQo=",
+      "url": "https://github.com/GITHUB_USERNAME/Titan-MU-Releases/releases/download/v1.0.0/PhelimN.Titan.Manager_1.0.0_x64-setup.exe"
+    }
+  }
+}
