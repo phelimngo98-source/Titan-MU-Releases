@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "Sửa: Kéo thả item trong kho đồ\nCập nhật: Tính năng hạn Item",
-  "pub_date": "2026-03-19T21:00:00Z",
+  "version": "1.0.4",
+  "notes": "Cập nhật v1.0.4 - Tính năng Chợ Trời\n\n✨ Tính năng mới:\n- Đăng bán item trên Chợ Trời (Admin tạo item đầy đủ thông số)\n- Chọn tài khoản và nhân vật thật từ DB\n- Tùy chỉnh đầy đủ: Level, Option, Skill, Luck, Excellent, Socket, Serial\n- Serial item chuẩn từ WZ_GetItemSerial (GameServerInfo)\n\n🔧 Cải tiến:\n- Trả kho hỗ trợ kho mở rộng (double vault trong cùng warehouse blob)\n- Sửa cơ chế serial item từ hardcoded sang gọi stored procedure chuẩn",
+  "pub_date": "2026-03-20T03:10:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lQOTRLY3RvQTZTdHpMYkpiVzI2OElKUURTZ0VhdXNqTVFKRFZ2RDNONFdwZGtCRWlrdXRLYzR2VEVZS0tOVkE0a0R0ZEtaaFA0RzJETDZET2E4UGZrbU4vNm9VeWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTMxNzU1CWZpbGU6UGhlbGltTiBUaXRhbiBNYW5hZ2VyXzEuMC4zX3g2NC1zZXR1cC5leGUKMVM3c2M0QUZ6bmpRNkNuS3NCSGRIMEdIcWRFWlI4aUNvZWoxbDNiLzJGNkNlT0dDYUdTTStKVGZnc2xWcEtDNE94UE8vYmN0ZEUzczVVVEtjcENnREE9PQo=",
-      "url": "https://github.com/phelimngo98-source/Titan-MU-Releases/releases/download/v1.0.3/PhelimN.Titan.Manager_Ver1.0.3_Update.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lQOTRLY3RvQXpFcmJCZE5ka3NKNDh6aEpmcFRYL3VqVGNSSFpEWW5DZHhtRkZsWTQzMFRxd2o0L2ZsS01ndS9CYngvK3VWMmR1bEc2SWRSL2ZGYWFOQ3ZSaHhtQkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTUxNDQwCWZpbGU6UGhlbGltTiBUaXRhbiBNYW5hZ2VyXzEuMC40X3g2NC1zZXR1cC5leGUKWE55dFZLQ08zNTFLZ2E4aGc4eUdaOXJmc3ZPUVNPcW9rQzhsS3pMTXhMWEhER0ppeUFVR0l6azdRcmM5elZLZEYyNERNUTh5TmtEdlBCZkFuYThWQmc9PQo=",
+      "url": "https://github.com/phelimngo98-source/Titan-MU-Releases/releases/download/v1.0.4/PhelimN.Titan.Manager_Ver1.0.4_Update.exe"
     }
   }
 }
