@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "Cập nhật: Sửa tính năng kéo thả item trong hòm đồ. Cải thiện giao diện. Cập nhật thêm tính năng chỉnh sửa đồ khi tạo nhân vật",
-  "pub_date": "2026-03-19T17:00:00Z",
+  "version": "1.0.3",
+  "notes": "Sửa: Kéo thả item trong kho đồ\nCập nhật: Tính năng hạn Item",
+  "pub_date": "2026-03-19T21:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lQOTRLY3RvQTV0QUV0eWFpQXRNTkMrQ0VKVHZRQ0dSOFVVUnV2RmhhSGRCZ0sxL3I3K1BRM1VLelZSUzMybWJCOHA3OVdBakRORFIyV0tuQWdTaDRNUFY0VVQ5NGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTE2Mjg1CWZpbGU6UGhlbGltTiBUaXRhbiBNYW5hZ2VyXzEuMC4yX3g2NC1zZXR1cC5leGUKeUZJeFdUUDFnK1JBMEgvckJLVW9yelFjV0ExZGlFZ0drRjI0ejBQeGJ4SEowbXBhOEE3ekgybzlwMmhNZmYzSFh3OGVsOFUyV3gwd3dqQUY1cENaREE9PQo=",
-      "url": "https://github.com/phelimngo98-source/Titan-MU-Releases/releases/download/v1.0.2/PhelimN.Titan.Manager_Ver1.0.2_Update.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc0lQOTRLY3RvQTZTdHpMYkpiVzI2OElKUURTZ0VhdXNqTVFKRFZ2RDNONFdwZGtCRWlrdXRLYzR2VEVZS0tOVkE0a0R0ZEtaaFA0RzJETDZET2E4UGZrbU4vNm9VeWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTMxNzU1CWZpbGU6UGhlbGltTiBUaXRhbiBNYW5hZ2VyXzEuMC4zX3g2NC1zZXR1cC5leGUKMVM3c2M0QUZ6bmpRNkNuS3NCSGRIMEdIcWRFWlI4aUNvZWoxbDNiLzJGNkNlT0dDYUdTTStKVGZnc2xWcEtDNE94UE8vYmN0ZEUzczVVVEtjcENnREE9PQo=",
+      "url": "https://github.com/phelimngo98-source/Titan-MU-Releases/releases/download/v1.0.3/PhelimN.Titan.Manager_Ver1.0.3_Update.exe"
     }
   }
 }
