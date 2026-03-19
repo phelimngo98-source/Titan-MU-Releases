@@ -1,6 +1,6 @@
 {
   "version": "1.0.2",
-  "notes": "Cập nhật: Thay thế thông báo CSDL, hiển thị phiên bản, sửa lỗi giao diện.",
+  "notes": "Cập nhật: Sửa tính năng kéo thả item trong hòm đồ. Cải thiện giao diện. Cập nhật thêm tính năng chỉnh sửa đồ khi tạo nhân vật",
   "pub_date": "2026-03-19T17:00:00Z",
   "platforms": {
     "windows-x86_64": {
