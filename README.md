@@ -85,6 +85,8 @@
 ---
 
 ## 📝 Changelog
+### v1.0.4
+- ✨ **Cập nhật:** Thêm tính năng Quản lý chợ trời
 
 ### v1.0.3
 - 🔧 **Sửa:** Kéo thả item trong kho đồ
