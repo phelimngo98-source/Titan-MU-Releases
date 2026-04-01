@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "notes": "Cập nhật:\n1. Chỉnh sửa thanh tìm kiếm chuẩn hơn\n2. Thông tin chung:\n- Thêm phần lọc theo Guild\n- Thêm lọc tài khoản có lâu không online\n- tích hợp tính năng xóa tài khoản\n3. Phát triển tính năng đọc log\n4. Chỉnh sửa chút về lọc Item chuẩn hơn\n5. Nút Donate cho phép tìm theo tên nhân vật.\n6. Ngân hàng ngọc cho phép tìm theo tên nhân vật",
   "pub_date": "2026-04-01T21:00:00Z",
   "platforms": {
